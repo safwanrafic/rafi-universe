@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@200;400;500;600;700&display=swap');
+
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.fa-solid.fa-arrow-right {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 8px;
+    font-size: 19px;
+    background: #fff;
+    color: #F4A7A7;
+}
+
+.fa-solid.fa-xmark {
+    border: 1px solid #fff;
+    border-radius: 60%;
+    background: #EB5757;
+    color: #fff;
+    padding: 8px;
+    font-size: 15px;
+    line-height: 0.8;
+  }
+
+.end-0 {
+    right: 30px !important;
+  }
+  .top-0 {
+    top: 4px !important;
+  }
+
+
+.card-title{
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Work Sans'
+}
+.card-list li {
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Work Sans'
+}
+
+.card-features {
+    font-weight: 600;
+    font-size: 25px;
+    font-family: 'Work Sans'
+}
+
+.card-date{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Work Sans'
+}
+
+.card {
+    width: 23rem;
+}
+
+.card-area img{
+    height: 200px;
+}
+
+.card-area {
+    padding: 8px;
+}
+
+.card-body{
+    padding: 20px;
+}
+
+.modal-content {
+    padding: 30px;
+}
+
+.modal-left {
+    padding: 26px;
+}
+
+
+
+.sub-charging {
+    background: white;
+    padding: 10px;
+  }
+
+.modal-left{
+    background-color: #FEF7F7;
+}
+.modal-left h2{
+    font-family: 'Work Sans';
+    font-weight: 600;
+    font-size: 18px;
+}
+.sub-charge{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.modal-left-footer h5{
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Work Sans';
+}
+
+.modal-left-footer ul>li{
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    color: #585858;
+}
+
+.modal-right img{
+    height: 200px;
+    width: 300px;
+}
+.modal-right h5{
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Work Sans';
+}
+
+.modal-right p{
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 14px;
+    color: #585858;
+}
